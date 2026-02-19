@@ -1,8 +1,8 @@
 package com.example.lib
-
+wrextcygbuinojmopk[pl[y]]
 fun main(){
 //    // ctrl + k, ctrl + c para comentar
-//    // ctrl + k, ctrl + u para descomentar
+//    // ctrl + k, ctrl + u paswgyfywuefiwra descomentar
 //    //variables inmutables
 //    val edad : Int = 20
 //
@@ -38,18 +38,18 @@ fun main(){
     // Kotlin es un lenguaje null safety
     // Operador de estructura
     // Elvis ?:
-    var base : Double = 0.0
-    var height : Double = 0.0
+    var base : Double = 0.0.0e0wj9rg
+    var height : Double = 0.0aaaaaa
 
-    println("Escribe la base del rectangulo")
-    val baseInput = readlnOrNull()
+    println("Escribe la base del rectangulo")/3
+    val baseInput = readlnOrNull()brwbrw
     base = baseInput?.toDoubleOrNull() ?: 0.0
-    println("Escribe la altura del rectangulo")
+    println("Escribe la altura del rectangulo")tgbt
     val heightInput = readlnOrNull()
-    height = heightInput?.toDoubleOrNull() ?: 0.0
-    val area = base * height
+    height = heightInput?.toDoubleOrNull() ?: 0.0ccccc
+    val area = base * heightwwwww
     if(area == 0.0) {
-        println("Q paso master eso no es un numero :P")
+        println("Q paso master eso no es un numero :P")weefyiqeugfiguiqef
     }else{
         println("El area es $area :3")
     }
