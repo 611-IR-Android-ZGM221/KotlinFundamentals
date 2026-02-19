@@ -2,6 +2,7 @@ package com.example.lib
 
 fun main(){
     // Commit 1...
+    // Commit 2
 //    // ctrl + k, ctrl + c para comentar
 //    // ctrl + k, ctrl + u para descomentar
 //    //variables inmutables
@@ -59,5 +60,3 @@ fun main(){
 //Creando funcionalidad 1
 //Creando funcionalidad 2
 //Creando funcionalidad 3
-
-//Cositas para revertir
